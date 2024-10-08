@@ -1,0 +1,9 @@
+<resources>
+    <string name="Hasi">Play</string>
+    <string name="Konfiguratu">Configurate</string>
+    <string name="HoniBuruz">Info </string>
+    <string name="Irten">Exit</string>
+    <string name="AplikazioTituloa">Asteroid</string>
+    <string name="app_name">Asteroids</string>
+    <string name="action_settings"> Configuration </string>
+</resources>

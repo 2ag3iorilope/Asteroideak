@@ -1,0 +1,9 @@
+<resources>
+    <string name="Hasi">Jokatu</string>
+    <string name="Konfiguratu">Konfiguratu</string>
+    <string name="HoniBuruz">Informazioa </string>
+    <string name="Irten">Irten</string>
+    <string name="AplikazioTituloa">Asteroideak</string>
+    <string name="app_name">Asteroideak</string>
+    <string name="action_settings"> Konfigurazioa </string>
+</resources>

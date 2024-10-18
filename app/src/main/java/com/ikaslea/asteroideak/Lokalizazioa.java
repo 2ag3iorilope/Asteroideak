@@ -1,6 +1,8 @@
 package com.ikaslea.asteroideak;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -17,4 +19,9 @@ public class Lokalizazioa extends AppCompatActivity {
         setContentView(R.layout.main);
 
     }
+    public void lanzarAcercaDe(View view){
+        Intent i = new Intent(this, AcercaDeActivity.class);
+        startActivity(i);
+    }
+
 }

@@ -6,4 +6,6 @@
     <string name="AplikazioTituloa">Asteroideak</string>
     <string name="app_name">Asteroideak</string>
     <string name="action_settings"> Konfigurazioa </string>
+    <string name="contenido" translatable="false">Este programa ha sido desarrollado como ejemplo en el curso de Android
+    para demostrar cómo se pueden lanzar nuevas actividades desde la actividad principal.</string>
 </resources>

@@ -10,6 +10,7 @@
     tools:context=".MainActivity">
 
     <TextView
+
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="20dp"
@@ -20,6 +21,7 @@
 
     <Button
         android:id="@+id/Button01"
+        style="@style/EstiloBoton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:backgroundTint="#918888"
@@ -28,9 +30,10 @@
 
     <Button
         android:id="@+id/Button02"
+        style="@style/EstiloBoton.Alternatiboa"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:backgroundTint="#918888"
+
         android:text="@string/Konfiguratu"
         android:textColor="#0B0B0B" />
 
@@ -38,9 +41,8 @@
         android:id="@+id/Button03"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:backgroundTint="#918888"
-        android:text="@string/HoniBuruz"
-        android:textColor="#0B0B0B" />
+        android:onClick="lanzarAcercaDe"
+        android:text="@string/HoniBuruz" />
 
     <Button
         android:id="@+id/Button04"

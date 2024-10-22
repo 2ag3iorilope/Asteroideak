@@ -41,7 +41,6 @@
         android:id="@+id/Button03"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:onClick="lanzarAcercaDe"
         android:text="@string/HoniBuruz" />
 
     <Button
@@ -49,6 +48,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:backgroundTint="#918888"
+        android:onClick="irten"
         android:text="@string/Irten"
         android:textColor="#0B0B0B" />
 </LinearLayout>
